@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WineShop2</string>
+    <string name="IntroTitle"><font color="#5b4cbd">Пейте Вино :D</font></string>
+    <string name="IntroSubtitle"><font color="#b660CD">Магазин Вина</font>\n <font color="#A10559">Винтаж</font> </string>
+    <string name="singin">Уже есть аккаунт?  <font color="#5b4cbd">Войдите</font></string>
+</resources>
